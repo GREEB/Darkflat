@@ -9,5 +9,5 @@ All notable changes to this project will be documented in this file.
 - -15px padding on the left of main
 
 ## [0.1.0] - 4.20.15
-- Release of a wierd version on agarforums.io
+- Release of a weird version on agarforums.io
 
